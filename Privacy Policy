@@ -1,0 +1,60 @@
+
+# 🔒 RallyDex — Privacy Policy
+
+**Effective Date:** June 26, 2025
+
+Your privacy is important to us. This Privacy Policy explains what data RallyDex collects and how it is used.
+
+---
+
+## 1. 📋 What We Collect
+
+RallyDex only stores data essential for bot functionality:
+
+- Your **Discord User ID**
+- The **Guild (Server) ID** where the bot is used
+- Your **in-game progress**, including collected rallies, drivers, and favorites
+
+No sensitive personal data is collected.
+
+---
+
+## 2. 🔐 How Your Data Is Used
+
+The data is used solely to:
+
+- Track your progress within the RallyDex bot
+- Provide personalized features like collections, favorites, and stats
+- Prevent abuse or spam
+
+We do not sell or share your data with third parties.
+
+---
+
+## 3. 🧹 Data Removal
+
+If you wish to remove your data:
+
+1. Use the `/deleteaccount` or similar command (if available), **or**
+2. Contact a bot developer through the support server
+
+We will process your request as quickly as possible.
+
+---
+
+## 4. 🛠 Data Storage
+
+All data is stored securely. RallyDex does not store message content or passwords.
+
+---
+
+## 5. 🧑‍💻 Contact
+
+Questions or concerns?  
+Join our support server: **https://discord.gg/kSSfYQgCsj**
+
+---
+
+## 6. 👤 Developers
+
+RallyDex is developed and maintained by **joel_carspotz**, **M3.csl_**, and other contributors in the rally car fan community.
